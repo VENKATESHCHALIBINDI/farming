@@ -44,13 +44,13 @@ body{
 }
 
 .logo{
+    text-underline-position: unset;
     float: left;
-}
-.logo span{
-    
+    text-decoration: none;
+    text-anchor: inherit;
     font-family: sans-serif;
     font-size: 40px;
-    color: saddlebrown;
+    color: bisque;
     position:absolute;
     top:2%;
     left:20px;
