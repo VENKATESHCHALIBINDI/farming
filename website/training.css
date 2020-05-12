@@ -45,12 +45,10 @@ body{
 
 .logo{
     float: left;
-}
-.logo span{
-    
+    text-decoration: none;
     font-family: sans-serif;
     font-size: 40px;
-    color: saddlebrown;
+    color: bisque;
     position:absolute;
     top:2%;
     left:20px;
